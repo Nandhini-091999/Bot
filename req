@@ -1,0 +1,10 @@
+flask
+python-dotenv
+pandas
+openpyxl
+sqlalchemy
+pymysql
+langchain
+langchain-community
+langchain-experimental
+langchain-groq
