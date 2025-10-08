@@ -1,0 +1,18 @@
+# Groq API
+#GROQ_API_KEY=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
+# Choose a Groq model (fast & good): llama-3.1-8b-instant or llama-3.1-70b-versatile
+GROQ_MODEL=llama-3.1-8b-instant
+DB_URI=mysql+pymysql://root:Milkybar%4009@localhost:3306/site1
+FLASK_SECRET_KEY=ddfccd53c469180e7c0d8136fa64361d1e44ea25751ad3745ee1324e6c61d119
+# Email / SMTP Config
+# -----------------------------
+
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=465
+SMTP_USER=nandhiniudayakumar132@gmail.com
+SMTP_PASS=akzh cyib spjo evel # ⚠️ not your real Gmail password, use an app-specific password
+SMTP_USE_SSL=true
+# -----------------------------
+# Upstream Team Email
+# -----------------------------
+UPSTREAM_EMAIL=upstreammail01@gmail.com
